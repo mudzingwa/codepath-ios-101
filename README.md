@@ -16,7 +16,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://i.imgur.com/1PhGX5h.gif' /img>
+
+<img src='https://i.imgur.com/1PhGX5h.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  

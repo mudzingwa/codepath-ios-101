@@ -28,8 +28,8 @@ GIF created with Imgur
 
 ## App Brainstorming (Step 4)
 **Google Calendar**
-  - Include easier navigation between calendars by enabling users to customize the appearance and layout of their calendar, providing options for different color schemes, themes, and view preferences.
-  - Provide more flexibility and customization options for event notifications, such as different notification sounds, snooze options, or the ability to set reminders for specific events.
+  - Include easier navigation between calendars by enabling users to customize the appearance and layout of their calendar.
+  - Provide more flexibility and customization options for event notifications, such as different notification sounds.
 
 **Instagram**
   - Allow users to reply to a message in DM by swiping right on it
@@ -43,7 +43,8 @@ GIF created with Imgur
 
 This was my first attempt at working with Swift, I faced a couple of challenges:
   1. Trying to understand the Swift syntax. However, once I understood it, it was easier to work with.
-  2. I faced a bit of challenge getting used to the XCode IDE. However, the video tutorials from CodePath prework helped me. 
+  2. I faced a bit of challenge getting used to the XCode IDE. However, the video tutorials from CodePath prework helped me.
+  3. I also faced a challenge sharing my GIF on my Github repo. I then figured it out after a long struggle. 
 
 ## License
 

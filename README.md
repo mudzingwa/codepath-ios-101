@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="1PhGX5h"><a href="//imgur.com/1PhGX5h">CodePath iOS 101 Prework</a></blockquote>
+<img src='https://i.imgur.com/1PhGX5h.gif' /img>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur  
